@@ -24,8 +24,8 @@ The pipeline has three stages:
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/serdarselimys/Pybullet-ImitationLearning.git
+cd Pybullet-ImitationLearning
 ```
 
 Or, if you'd rather not use git, download the repo as a ZIP from GitHub
