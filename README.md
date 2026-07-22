@@ -1,4 +1,6 @@
-# HexaDog Gait Imitation Learning Pipeline
+![Screenshot](Imitation_Learning.png)
+
+# HexaDog-ZBD Pybullet Imitation Learning Pipeline
 
 A PyBullet-based pipeline for training a neural network to imitate a hand-designed
 procedural gait controller for a six-legged robot ("HexaDog"), and then driving the
