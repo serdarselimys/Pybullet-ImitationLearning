@@ -198,3 +198,15 @@ inference; the scripts fall back to CPU automatically via
 - If a mesh or URDF path error occurs, confirm the `meshes/` folder location
   referenced inside `HexaDog_ZBD.urdf` matches where you've placed it relative to
   the URDF file.
+
+
+
+## License
+These files are licensed under the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0) license.
+
+You are free to remix, adapt, and build upon this design for non-commercial purposes, as long as you give appropriate credit.
+
+You may not use the material for commercial purposes of any kind.
+
+Link:
+https://creativecommons.org/licenses/by-nc/4.0/
