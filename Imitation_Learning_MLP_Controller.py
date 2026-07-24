@@ -11,7 +11,7 @@ import pygame
 # =================================================================
 # CONFIG
 # =================================================================
-MODEL_PATH   = "gait_nn_full.pth"        # or use gait_nn.pth + GaitNet class below
+MODEL_PATH   = "gait_nn_full.pth"
 SCALER_X_PATH = "scaler_X.pkl"
 SCALER_Y_PATH = "scaler_y.pkl"
 COLS_PATH     = "feature_columns.pkl"
